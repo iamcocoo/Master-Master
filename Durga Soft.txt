@@ -1,23 +1,2 @@
-In todays session
-first we have created vnet
-on top of it we have created two 2 vm (public and private)
-on top of this we have installed web server (load)
-vm with public ip can be accessed
-vm with private ip communication can be establihed, but cannot be accessed on the internet
-
-creating a vm and vn
-public
-private
-Network interface card, it has both public andprivate
-network security rules or group
-
-This a simply a change made to test the file fropm local to github
-
-123658
-14785
-215458
-
-lkdsjflkj
-kldsfjlsdj
-1000000000000000000
-
+deleted all data
+to test the pull chage 
